@@ -11,16 +11,17 @@
 
 ### Overview
 
-- _Write competition information_
+- 주어진 자료를 통해 아파트가격을 예측하는 모델을 만듭니다.
+- 주어진 자료 외 추가적인 데이터가 얼마나 모델에 영향을 끼치는지 예측하며 모델응 수정합니다.
 
 ### Timeline
 
-- ex) 2024.03. - Start Date
-- ex) February 10, 2024 - Final submission deadline
+- March 10, 2024 - Start Date
+-  April 2, 2024 - Final submission deadline
 
 ### Evaluation
 
-- _Write how to evaluate model_
+
 
 ## 2. Components
 
@@ -31,17 +32,34 @@
 ## 3. Data descrption
 
 ### Dataset overview
+train
 
-- _Explain using data_
+시군구, 아파트명, 면적 등 아파트 가격에 영향을 끼칠만한 feature들이 있습니다. 
+
+test
+
+bus_feature
+
+-정류소명, x,y 좌표, 등 버스 정류장에 대한 정보가 들어있습니다. 
+
+
+subway_features
+
+- 역이름, 호선, 위경도 자표가 들어있습니다.
+버스 feature와 마찬가지로 아파트 가격과의 관계를 알아볼 수 있습니다. 
 
 ### EDA
-
-- _Describe your EDA process and step-by-step conclusion_
+- 결측치 제거.
+- 이상치 제거.
+- heatmap을 통한 feature중요도 파악. 
 
 ### Feature engineering
 
-- _Describe feature engineering process_
+- BaseLine을 기반으로 진행합니다.
 
+- 시군구를 강남, 강북으로 나눕니다.
+- 주요 아파트명으로 분류합니다.
+- 면적에 따라 아파트 크기를 나눕니다. 
 ## 4. Modeling
 
 ### Model description
