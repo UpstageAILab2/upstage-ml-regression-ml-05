@@ -5,7 +5,7 @@
 | ![권혁주](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김동균](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김신혜](https://avatars.githubusercontent.com/u/156163982?v=4) | ![민동욱](https://avatars.githubusercontent.com/u/156163982?v=4) |
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
 |            [권혁주](https://github.com/juyoll)             |            [김동균](https://github.com/sq4567)             |            [김신혜](https://github.com/upstageailab2324)             |            [민동욱](https://github.com/mindw96)             |    
-|                            팀장, 담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            팀원                            |
+|                            담당 역할                             |                            팀장, 담당 역할                             |                            담당 역할                             |                            팀원                            |
 
 ## 1. Competiton Info
 
@@ -15,7 +15,7 @@
 
 ### Timeline
 
-- ex) January 10, 2024 - Start Date
+- ex) 2024.03. - Start Date
 - ex) February 10, 2024 - Final submission deadline
 
 ### Evaluation
