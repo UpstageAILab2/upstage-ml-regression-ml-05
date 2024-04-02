@@ -1,4 +1,4 @@
-# Title (Please modify the title)
+# Hh
 
 ## Team
 
@@ -44,7 +44,7 @@
 
 ## 4. Modeling
 
-### Model descrition
+### Model description
 
 - _Write model information and why your select this model_
 
@@ -56,12 +56,14 @@
 
 ### Leader Board
 
-- _Insert Leader Board Capture_
-- _Write rank and score_
+
+- ![image](https://github.com/UpstageAILab2/upstage-ml-regression-ml-05/assets/69085457/c458ee76-322c-4782-81bd-aa7f1187c92a)
+
+- #6, 13586.7521
 
 ### Presentation
 
-- _Insert your presentaion file(pdf) link_
+- https://docs.google.com/presentation/d/17gBDJbw0AIFKu_I1f0rugn9mr1-mjrWI/edit?usp=sharing&ouid=111560918199565476406&rtpof=true&sd=true
 
 ## etc
 
