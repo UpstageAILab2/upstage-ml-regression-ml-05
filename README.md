@@ -67,10 +67,8 @@
 
 ## etc
 
-### Meeting Log
-
-- _Insert your meeting log link like Notion or Google Docs_
-
 ### Reference
 
-- _Insert related reference_
+- [금리와 부동산, 그 상관관계 (2024)](https://zippoom.com/content/detail/251)
+- [주택거래량은 주택가격 변동을 설명할 수 있는가? (, 임재만, 국토연구 제69권 p.g. 03~18)](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE01663054)
+- []()
