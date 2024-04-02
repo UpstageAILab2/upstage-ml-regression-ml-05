@@ -64,11 +64,11 @@ subway_features
 
 ### Model description
 
-- _Write model information and why your select this model_
+- XGBoost를 사용했습니다.
 
 ### Modeling Process
 
-- _Write model train and test process with capture_
+- XGBoost를 TimeSeriseCV로 10split하여 진행하였으며 결과가 좋았던 Top3로 최종 Prediction 했습니다.
 
 ## 5. Result
 
